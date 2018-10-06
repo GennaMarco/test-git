@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 void callA() {
-	printf("I'm A!\n");
+	printf("Hello!\n");
 	return;
 }
 
